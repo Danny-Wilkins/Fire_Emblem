@@ -1,0 +1,2 @@
+break /home/danny/Documents/Programs/git-repos/remaking_cavestory/src/main.cpp:1
+
